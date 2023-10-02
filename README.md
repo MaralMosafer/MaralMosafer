@@ -58,7 +58,7 @@ const Maral = {
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-## My Skils & Tools
+## Skill & Tools
 <p align="center"><a href="https://github.com/MaralMosafer"><img src="https://skillicons.dev/icons?i=js,html,css,dotnet,bootstrap,wordpress,sass,vscode,visualstudio"></a>
   
 <p align="center">
