@@ -66,8 +66,8 @@ const Maral = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maralmosafer&hide_progress=true">
+<img src="https://github-readme-stats.vercel.app/api?username=MaralMosafer&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaralMosafer&hide_progress=true">
 </p>
 
 <p align="center">
