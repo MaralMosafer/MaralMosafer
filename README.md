@@ -19,7 +19,7 @@ const Maral = {
         },
     },
     architecture: ["Onion Architecture"],
-    quote: "I Can Fix The World If You Give The The Source Code"
+    quote: "I Can Fix The World If You Give The Source Code"
 };
 ```
 <p align="center">
