@@ -15,7 +15,7 @@ const Maral = {
             ASP NETcore: ["MVC", "Razor Pages"],
         },
         frontEnd: {
-            Website:  ["Html", "Css","javaScript","jQuery","Sass"],
+            Learning:  ["Html", "Css","javaScript","jQuery","Sass"],
         },
     },
     architecture: ["Onion Architecture"],
@@ -28,7 +28,7 @@ const Maral = {
 
 💬 Ask me about
 - Backend web development (ASP.NET core)
-- Frontend web development (Html,Css,Js,JQuery,SASS)
+- Frontend web development (Html,Css,Js,JQuery)
 - Design Patterns
 - Graphic Design
 - WordPress
