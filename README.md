@@ -66,8 +66,8 @@ const Maral = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaralMosafer&show_icons=true&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaralMosafer&hide_progress=true">
+<img src="https://streak-stats.demolab.com?user=Maral%20Mosafer&theme=black-ice&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaralMosafer&hide_progress=true&theme=dark">
 </p>
 
 <p align="center">
